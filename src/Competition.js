@@ -27,7 +27,7 @@ export class Competition {
     this.sections = []
 
     // View properties
-    this.allowsMultipleEntries = null;
+    this.allowsMultipleEntries = false;
   }
 }
 
